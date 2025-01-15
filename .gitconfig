@@ -1,0 +1,5 @@
+[user]
+	name = hlacsgit
+	email = hewittla@appstate.edu
+[credential]
+	helper = store --file ~/.git-cred
